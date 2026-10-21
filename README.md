@@ -70,7 +70,7 @@ If you build, invest, research or operate in this space: **we should talk.**
   </tr>
   <tr>
     <td width="104" align="center" valign="middle">
-      <img src="./assets/astraea-wp-256.png" width="84" alt="AstraeaOS WordPress Edition" />
+      <img src="./assets/astraeaos-512.png" width="84" alt="AstraeaOS WordPress Edition" />
     </td>
     <td>
       <strong>AstraeaOS <sup>™</sup> WordPress Edition</strong> &nbsp;<sub><strong>ALPHA</strong></sub><br />
