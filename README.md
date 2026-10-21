@@ -37,15 +37,16 @@ No big team. No big budget. No theatrical roadmap. Just working code, public rep
 > ### Build the Apple of Europe.
 > A complete, sovereign technology stack — from silicon to software, from bootloader to workspace.
 
-**Five years. Four layers. One integrated system.**
+**Five years. One integrated system.**
 
 - **AstraeaOS** — our own operating system.
 - **GeDefense** — the security fabric beneath it.
 - **Astraea Workspace** — productivity software for the post-cloud era.
+- **GaiaCom** — federated, post-quantum secure communication for the same stack.
 - **VGT hardware** — carefully verified components, direct system-integrity checks and our own bootloaders.
 
 <div align="center">
-<sub><strong>HARDWARE</strong> &nbsp;→&nbsp; <strong>BOOTLOADER</strong> &nbsp;→&nbsp; <strong>ASTRAEAOS</strong> &nbsp;→&nbsp; <strong>GEDEFENSE</strong> &nbsp;→&nbsp; <strong>ASTRAEA WORKSPACE</strong></sub>
+<sub><strong>HARDWARE</strong> &nbsp;→&nbsp; <strong>BOOTLOADER</strong> &nbsp;→&nbsp; <strong>ASTRAEAOS</strong> &nbsp;→&nbsp; <strong>GEDEFENSE</strong> &nbsp;→&nbsp; <strong>ASTRAEA WORKSPACE</strong> &nbsp;→&nbsp; <strong>GAIACOM</strong></sub>
 </div>
 
 Some say this dream is too big. We say: many of the building blocks already exist. What is still missing is capital — and the people who believe that sovereign systems and verified hardware infrastructure are worth building.
@@ -59,15 +60,35 @@ If you build, invest, research or operate in this space: **we should talk.**
 <table>
   <tr>
     <td width="104" align="center" valign="middle">
+      <img src="./assets/astraeaos-512.png" width="150" alt="AstraeaOS" />
+    </td>
+    <td>
+      <strong>AstraeaOS</strong> &nbsp;<sub><strong>PRIVATE DEVELOPMENT</strong></sub><br />
+      A next-generation operating system with verified boot, direct system integrity and a coherent native experience — designed as the foundation of the stack.<br />
+      <sub>Private repository · no public source yet</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="104" align="center" valign="middle">
+      <img src="./assets/astraea-wp-256.png" width="84" alt="AstraeaOS WordPress Edition" />
+    </td>
+    <td>
+      <strong>AstraeaOS <sup>™</sup> WordPress Edition</strong> &nbsp;<sub><strong>ALPHA</strong></sub><br />
+      WordPress without the plugin stack: a security-first distribution with first-party cryptography, recovery, privacy, mail, performance and infrastructure built directly into the platform.<br />
+      <a href="https://github.com/visiongaiatechnology/astraeawp"><img src="https://img.shields.io/badge/Repository-AstraeaOS_WP-00D9FF?style=flat-square&amp;logo=wordpress&amp;logoColor=0B1220" alt="AstraeaOS WordPress Edition repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="104" align="center" valign="middle">
       <img src="./assets/gedefense-256.png" width="84" alt="GeDefense" />
     </td>
     <td>
       <strong>GeDefense</strong> &nbsp;<sub><strong>PUBLIC BETA</strong></sub><br />
       Kernel-near network defense, host XDR and encrypted evidence. One security fabric across Linux, WordPress, Android and Windows.<br />
-      <a href="https://github.com/visiongaiatechnology/gedefense"><img src="https://img.shields.io/badge/Linux-D4AF37?style=flat-square&logo=linux&logoColor=0B1220" alt="GeDefense Linux" /></a>
-      <a href="https://github.com/visiongaiatechnology/gedefensewp"><img src="https://img.shields.io/badge/WordPress-1F8FFF?style=flat-square&logo=wordpress&logoColor=ffffff" alt="GeDefense WordPress" /></a>
-      <a href="https://github.com/visiongaiatechnology/gedefenseandroid"><img src="https://img.shields.io/badge/Android-22D3EE?style=flat-square&logo=android&logoColor=0B1220" alt="GeDefense Android" /></a>
-      <a href="https://github.com/visiongaiatechnology/gedefensewin"><img src="https://img.shields.io/badge/Windows-8B5CF6?style=flat-square&logo=windows&logoColor=ffffff" alt="GeDefense Windows" /></a>
+      <a href="https://github.com/visiongaiatechnology/gedefense"><img src="https://img.shields.io/badge/Linux-D4AF37?style=flat-square&amp;logo=linux&amp;logoColor=0B1220" alt="GeDefense Linux" /></a>
+      <a href="https://github.com/visiongaiatechnology/gedefensewp"><img src="https://img.shields.io/badge/WordPress-1F8FFF?style=flat-square&amp;logo=wordpress&amp;logoColor=ffffff" alt="GeDefense WordPress" /></a>
+      <a href="https://github.com/visiongaiatechnology/gedefenseandroid"><img src="https://img.shields.io/badge/Android-22D3EE?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense Android" /></a>
+      <a href="https://github.com/visiongaiatechnology/gedefensewin"><img src="https://img.shields.io/badge/Windows-8B5CF6?style=flat-square&amp;logo=windows&amp;logoColor=ffffff" alt="GeDefense Windows" /></a>
     </td>
   </tr>
   <tr>
@@ -77,28 +98,33 @@ If you build, invest, research or operate in this space: **we should talk.**
     <td>
       <strong>Astraea Workspace</strong> &nbsp;<sub><strong>ACTIVE DEVELOPMENT</strong></sub><br />
       A local-first productivity suite for focused work: documents, notes, tasks, research and a coherent workspace that does not depend on a rented cloud.<br />
-      <a href="https://github.com/visiongaiatechnology/astraeaworkspace"><img src="https://img.shields.io/badge/Repository-Astraea_Workspace-8B5CF6?style=flat-square&logo=github&logoColor=ffffff" alt="Astraea Workspace repository" /></a>
+      <a href="https://github.com/visiongaiatechnology/astraeaworkspace"><img src="https://img.shields.io/badge/Repository-Astraea_Workspace-8B5CF6?style=flat-square&amp;logo=github&amp;logoColor=ffffff" alt="Astraea Workspace repository" /></a>
     </td>
   </tr>
   <tr>
     <td width="104" align="center" valign="middle">
-      <img src="./assets/astraeaos-512.png" width="150" alt="AstraeaOS" />
+      <img src="./assets/gaiacom-256.png" width="100" alt="GaiaCom" />
     </td>
     <td>
-      <strong>AstraeaOS</strong> &nbsp;<sub><strong>PRIVATE DEVELOPMENT</strong></sub><br />
-      A next-generation operating system with verified boot, direct system integrity and a coherent native experience — designed as the foundation of the stack.<br />
-      <sub>Private repository · no public source yet</sub>
+      <strong>GaiaCom</strong> &nbsp;<sub><strong>TECHNICAL BETA</strong></sub><br />
+      Federated communication with native end-to-end encryption and hybrid post-quantum cryptography — conversations, group chats and file drops with zero server trust.<br />
+      <a href="https://github.com/visiongaiatechnology/GaiaCom"><img src="https://img.shields.io/badge/Repository-GaiaCom-1F8FFF?style=flat-square&amp;logo=github&amp;logoColor=ffffff" alt="GaiaCom repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="104" align="center" valign="middle">
+      <img src="./assets/aethel-256.png" width="84" alt="VGT Aethel" />
+    </td>
+    <td>
+      <strong>VGT Aethel</strong> &nbsp;<sub><strong>ACTIVE BETA</strong></sub><br />
+      A sovereign strategic intelligence OS: local-first AI, an agentic VGT Coder IDE and a personal operations desktop, built to keep intelligence on the machine.<br />
+      <a href="https://github.com/visiongaiatechnology/vgtaethel"><img src="https://img.shields.io/badge/Repository-VGT_Aethel-22D3EE?style=flat-square&amp;logo=github&amp;logoColor=0B1220" alt="VGT Aethel repository" /></a>
     </td>
   </tr>
 </table>
 
-### Applied AI
-
-**VGT Aethel** — AI research and agentic tooling with a sovereignty-first stance: local-first guardrails, auditable tool use and no blind trust in model output.
-
-[![Repository](https://img.shields.io/badge/Repository-VGT_Aethel-22D3EE?style=flat-square&logo=github&logoColor=0B1220)](https://github.com/visiongaiatechnology/vgtaethel)
-
 ---
+
 
 ## What we optimize for
 
