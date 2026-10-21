@@ -22,7 +22,9 @@ security fabric and productivity layer for a post-cloud world.</p>
 
 ## Who we are
 
-**VisionGaiaTechnology is an independent, bootstrapped technology lab.** One engineer, a long horizon, and a simple conviction: the most important software layers should not be rented from someone else.
+**VisionGaiaTechnology is an independent, bootstrapped technology lab founded by Rene Körner.** He is 28, based in Cologne, Germany, and currently builds the stack as its sole developer.
+
+The conviction: the most important software layers should not be rented from someone else. The vision is larger than a single product — **digital sovereignty that works worldwide**, built from Europe and designed to be used anywhere.
 
 We build local-first systems with verified behavior, transparent architecture and no unnecessary cloud dependency — from kernel-near network defense to the documents and notes people use every day.
 
