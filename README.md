@@ -1,5 +1,5 @@
 > [!WARNING]
-> **VGT IS IN ACTIVE DEVELOPMENT.** GeDefense, Astraea Workspace and VGT Aethel are currently **public beta / release candidate** software. They are not yet intended for unsupervised production use. Validate every build in staging, keep tested backups and read the repository-specific beta notice before deployment.
+> **VGT IS IN ACTIVE DEVELOPMENT.** GeDefense, AstraeaOS WordPress Edition, Astraea Workspace, GaiaCom and VGT Aethel are currently **alpha / beta / release candidate** software. They are not yet intended for unsupervised production use. Validate every build in staging, keep tested backups and read the repository-specific beta notice before deployment.
 
 <div align="center">
 
