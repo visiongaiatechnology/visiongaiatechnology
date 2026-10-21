@@ -114,6 +114,20 @@ If you build, invest, research or operate in this space: **we should talk.**
 - License: **[AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0)** for the open-source projects.
 - Security: use the security policy or private security advisory in the respective repository.
 
+---
+
+## Support
+
+Independent development is funded by people who want this stack to exist. If you want to support the work:
+
+| Method | Address |
+|:---|:---|
+| **PayPal** | [paypal.me/dergoldenelotus](https://paypal.me/dergoldenelotus) |
+| **Bitcoin** | `bc1q3ue5gq822tddmkdrek79adlkm36fatat3lz0dm` |
+| **ETH / USDT (ERC-20)** | `0xD37DEfb09e07bD775EaaE9ccDaFE3a5b2348Fe85` |
+
+<sub>Voluntary support only — no equity, SLA or production license is implied. Crypto transfers are irreversible; verify the network and address before sending.</sub>
+
 <div align="center">
 <br />
 <sub><strong>BUILT IN EUROPE. DESIGNED FOR SOVEREIGNTY.</strong></sub>
