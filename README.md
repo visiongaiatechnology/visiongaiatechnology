@@ -15,7 +15,6 @@ security fabric and productivity layer for a post-cloud world.</p>
 <a href="https://visiongaiatechnology.de"><img src="https://img.shields.io/badge/WEB-visiongaiatechnology.de-0B1220?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=22D3EE" alt="Website" /></a>
 <a href="https://github.com/visiongaiatechnology"><img src="https://img.shields.io/badge/GITHUB-visiongaiatechnology-0B1220?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/STATUS-PUBLIC_BETA-D4AF37?style=for-the-badge&amp;logo=shield&amp;logoColor=0B1220" alt="Public beta" />
-<a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/LICENSE-AGPL--3.0-0B1220?style=for-the-badge&amp;logo=opensourceinitiative&amp;logoColor=22D3EE" alt="AGPL-3.0" /></a>
 
 </div>
 
@@ -112,6 +111,7 @@ If you build, invest, research or operate in this space: **we should talk.**
 
 - Website: **[visiongaiatechnology.de](https://visiongaiatechnology.de)**
 - GitHub: **[github.com/visiongaiatechnology](https://github.com/visiongaiatechnology)**
+- License: **[AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0)** for the open-source projects.
 - Security: use the security policy or private security advisory in the respective repository.
 
 <div align="center">
