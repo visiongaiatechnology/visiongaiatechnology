@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="./assets/vgtcode-256.png" width="112" alt="VisionGaiaTechnology" />
+<img src="./assets/vgtcode-256.png" width="150" alt="VisionGaiaTechnology" />
 
 <h1>VISIONGAIA TECHNOLOGY</h1>
 
