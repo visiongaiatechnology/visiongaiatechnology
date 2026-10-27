@@ -1,3 +1,12 @@
+<div align="center">
+
+🌍 **ENTASTICLANGUAGE** &nbsp;·&nbsp; pick your quack:<br />
+**[🇬🇧 English](README.md)** · [🇩🇪 Deutsch](README.de.md) · [🇷🇺 Русский](README.ru.md) · [🇨🇳 中文](README.zh.md) · [🇯🇵 日本語](README.ja.md) · [🇪🇸 Español](README.es.md) · [🇮🇹 Italiano](README.it.md)
+
+</div>
+
+---
+
 > [!WARNING]
 > **VGT IS IN ACTIVE DEVELOPMENT.** GeDefense, AstraeaOS WordPress Edition, Astraea Workspace, GaiaCom and VGT Aethel are currently **alpha / beta / release candidate** software. They are not yet intended for unsupervised production use. Validate every build in staging, keep tested backups and read the repository-specific beta notice before deployment.
 >
@@ -194,7 +203,7 @@ If you build, invest, research or operate in this space: **we should talk.**
 
 | Question | Answer |
 |:---|:---|
-| Are you a startup? | No. We're a research lab with a deployment pipeline and a duck. |
+| Are you a startup? | Yes. And a research lab. A startup with a research problem, a research lab with a shipping pipeline, and a duck with veto power. |
 | Why the mascot? | Every engineering team has a rubber duck. We gave ours a job title and a tactical vest. |
 | Is the humor a red flag? | The humor is load-bearing. The code is not a joke. |
 | Can I use the products in production? | Not unsupervised. See the warning at the top. Staging and backups are not optional. |
