@@ -185,6 +185,16 @@ If you build, invest, research or operate in this space: **we should talk.**
       <a href="https://github.com/visiongaiatechnology/vgtaethel"><img src="https://img.shields.io/badge/Repository-VGT_Aethel-22D3EE?style=flat-square&amp;logo=github&amp;logoColor=0B1220" alt="VGT Aethel repository" /></a>
     </td>
   </tr>
+  <tr>
+    <td width="104" align="center" valign="middle">
+      <img src="./vgtcode.png" width="84" alt="VGT Mediacenter" />
+    </td>
+    <td>
+      <strong>VGT Mediacenter</strong> &nbsp;<sub><strong>PUBLIC BETA</strong></sub><br />
+      A sovereign offline-first desktop workstation and hardened WordPress ecosystem with 40 built-in apps for privacy, media, development and forensics — 100% client-side, zero cloud and zero telemetry. Available for Windows, Linux and WordPress.<br />
+      <a href="https://github.com/visiongaiatechnology/mediacenter"><img src="https://img.shields.io/badge/Repository-VGT_Mediacenter-00D9FF?style=flat-square&amp;logo=github&amp;logoColor=0B1220" alt="VGT Mediacenter repository" /></a>
+    </td>
+  </tr>
 </table>
 
 ---
