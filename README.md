@@ -1,28 +1,61 @@
 > [!WARNING]
 > **VGT IS IN ACTIVE DEVELOPMENT.** GeDefense, AstraeaOS WordPress Edition, Astraea Workspace, GaiaCom and VGT Aethel are currently **alpha / beta / release candidate** software. They are not yet intended for unsupervised production use. Validate every build in staging, keep tested backups and read the repository-specific beta notice before deployment.
+>
+> *Our confidence is high. Our version numbers are honest.*
 
 <div align="center">
 
-<img src="./assets/vgtcode-256.png" width="150" alt="VisionGaiaTechnology" />
+<img src="./assets/sirdu-mascot.png" width="200" alt="Sir Quacksec — the VGT mascot: a duck in a tactical vest giving a thumbs up" />
 
-<h1>VISIONGAIA TECHNOLOGY</h1>
+<h1>VISIONGAIATECHNOLOGY</h1>
 
-<p><strong>SOVEREIGN TECHNOLOGY. BUILT FROM THE BOOTLOADER UP.</strong></p>
+<p><strong>WE LOOKED AT THE TECH INDUSTRY AND MADE IT OUR PROBLEM.</strong></p>
 
-<p>An independent European technology lab building the operating system,<br />
-security fabric and productivity layer for a post-cloud world.</p>
+<p>Operating systems. Security fabrics. Productivity software.<br />
+We're building the post-cloud world because apparently having hobbies wasn't enough.</p>
+
+<p><strong>Is it absurd? Absolutely.</strong><br />
+<strong>Could we just use existing solutions? Probably.</strong><br />
+<strong>Are we going to build it ourselves anyway? Quack.</strong></p>
+
+<p>Welcome to VisionGaiaTechnology.</p>
+
+<p><em>We take our code seriously. Our life choices are under investigation.</em> 🦆</p>
 
 <a href="https://visiongaiatechnology.de"><img src="https://img.shields.io/badge/WEB-visiongaiatechnology.de-0B1220?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=22D3EE" alt="Website" /></a>
 <a href="https://github.com/visiongaiatechnology"><img src="https://img.shields.io/badge/GITHUB-visiongaiatechnology-0B1220?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/STATUS-PUBLIC_BETA-D4AF37?style=for-the-badge&amp;logo=shield&amp;logoColor=0B1220" alt="Public beta" />
+<img src="https://img.shields.io/badge/OPERATING_MODEL-ENTENPRISE-D4AF37?style=for-the-badge" alt="Operating model: Entenprise" />
+<img src="https://img.shields.io/badge/MASCOT-SIR_QUACKSEC-D4AF37?style=for-the-badge" alt="Mascot: Sir Quacksec" />
 
 </div>
 
 ---
 
-## Who we are
+## 🦆 Meet Sir Quacksec
 
-**VisionGaiaTechnology is an independent, bootstrapped technology lab founded by Rene Körner.** He is 28, based in Cologne, Germany, and currently builds the stack as its sole developer.
+> **Every serious engineering organization has a rubber duck. Ours has a title, a tactical vest and veto power.**
+
+<table>
+  <tr><td width="180"><strong>Name</strong></td><td><strong>Sir Quacksec</strong></td></tr>
+  <tr><td><strong>Title</strong></td><td>Chief Quack Officer · Head of Rubber-Duck Debugging</td></tr>
+  <tr><td><strong>Division</strong></td><td>Department of Quack Assurance (DQA)</td></tr>
+  <tr><td><strong>Clearance</strong></td><td>Pond Level 5 — all repositories, all incidents, unlimited bread</td></tr>
+  <tr><td><strong>Core skill</strong></td><td>Staring at stack traces until they confess</td></tr>
+  <tr><td><strong>Signature move</strong></td><td>The thumbs-up that means “ship it” and “absolutely do not ship it”, depending on the incident</td></tr>
+  <tr><td><strong>Appointed by</strong></td><td>A committee of one duck. Unanimous.</td></tr>
+  <tr><td><strong>Known for</strong></td><td>Approving an architecture with a single “quack”, then quietly rewriting the test plan</td></tr>
+</table>
+
+Sir Quacksec is our mascot, our rubber-duck debugger and the only team member who has never pushed to `main` on a Friday. We treat that as a governance signal.
+
+> *“If you can't explain it to a duck, you don't understand it. If you can explain it to Sir Quacksec, you're probably overengineering it.”*
+
+---
+
+## 👋 Who we are
+
+**VisionGaiaTechnology is an independent, bootstrapped technology lab founded by Rene Körner.** He is 28, based in Cologne, Germany, and currently builds the stack as its sole developer — with Sir Quacksec providing senior counsel and emotional support.
 
 The conviction: the most important software layers should not be rented from someone else. The vision is larger than a single product — **digital sovereignty that works worldwide**, built from Europe and designed to be used anywhere.
 
@@ -30,9 +63,27 @@ We build local-first systems with verified behavior, transparent architecture an
 
 No big team. No big budget. No theatrical roadmap. Just working code, public repositories and the next layer of the stack.
 
+**We are not an Enterprise. We are an Entenprise.** The difference is mostly feathers, but it turns out feathers are a surprisingly good governance model.
+
 ---
 
-## The vision
+## 🏛️ The Entenprise difference
+
+| Enterprise | Entenprise |
+|:---|:---|
+| Cloud-first | Local-first |
+| Synergy workshops | Rubber-duck debugging |
+| Six approval layers | One duck, one veto |
+| “Let's circle back” | “It's on `main`” |
+| Innovation lab | A laptop, stubbornness and a CI runner |
+| Roadmap theater | Public repositories and changelogs |
+| Headcount | Bread count |
+
+*We are aware that we sound like a startup that got hit by a duck. We prefer “research lab with deployment pipeline”.*
+
+---
+
+## 🎯 The vision
 
 > ### Build the Apple of Europe.
 > A complete, sovereign technology stack — from silicon to software, from bootloader to workspace.
@@ -51,11 +102,15 @@ No big team. No big budget. No theatrical roadmap. Just working code, public rep
 
 Some say this dream is too big. We say: many of the building blocks already exist. What is still missing is capital — and the people who believe that sovereign systems and verified hardware infrastructure are worth building.
 
+*Yes, we know how that sounds. We're building it anyway.*
+
 If you build, invest, research or operate in this space: **we should talk.**
 
 ---
 
-## The projects
+## 📦 The projects
+
+*The serious part. This is what actually exists — including the parts still in alpha.*
 
 <table>
   <tr>
@@ -125,17 +180,31 @@ If you build, invest, research or operate in this space: **we should talk.**
 
 ---
 
-
-## What we optimize for
+## ⚙️ What we optimize for
 
 - **Local-first by default.** No cloud control plane. No rented trust.
 - **Evidence over claims.** Tests, manifests and audit trails are part of the product.
 - **Reversible hardening.** Security should be observable, adjustable and recoverable.
 - **Own the whole stack.** Operating system, security, productivity and eventually hardware.
+- **Seriousness where it counts.** Ducks are for debugging. Production is for evidence.
 
 ---
 
-## Connect
+## ❓ Frequently Quacked Questions
+
+| Question | Answer |
+|:---|:---|
+| Are you a startup? | No. We're a research lab with a deployment pipeline and a duck. |
+| Why the mascot? | Every engineering team has a rubber duck. We gave ours a job title and a tactical vest. |
+| Is the humor a red flag? | The humor is load-bearing. The code is not a joke. |
+| Can I use the products in production? | Not unsupervised. See the warning at the top. Staging and backups are not optional. |
+| Why build everything yourself? | Because renting your own foundation is weird. |
+| Are you hiring? | The duck handles headcount. Currently the answer is “quack”. |
+| How can I help? | Contribute, test, report issues — or support the work below. Quacking encouraged. |
+
+---
+
+## 🔗 Connect
 
 - Website: **[visiongaiatechnology.de](https://visiongaiatechnology.de)**
 - GitHub: **[github.com/visiongaiatechnology](https://github.com/visiongaiatechnology)**
@@ -144,7 +213,7 @@ If you build, invest, research or operate in this space: **we should talk.**
 
 ---
 
-## Support
+## 💛 Support
 
 Independent development is funded by people who want this stack to exist. If you want to support the work:
 
@@ -158,5 +227,6 @@ Independent development is funded by people who want this stack to exist. If you
 
 <div align="center">
 <br />
-<sub><strong>BUILT IN EUROPE. DESIGNED FOR SOVEREIGNTY.</strong></sub>
+<sub><strong>BUILT IN EUROPE. DESIGNED FOR SOVEREIGNTY. SUPERVISED BY A DUCK.</strong></sub><br />
+<sub>🦆 Quack.</sub>
 </div>
