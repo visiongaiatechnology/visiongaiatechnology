@@ -249,3 +249,12 @@ Independent development is funded by people who want this stack to exist. If you
 <sub><strong>BUILT IN EUROPE. DESIGNED FOR SOVEREIGNTY. SUPERVISED BY A DUCK.</strong></sub><br />
 <sub>🦆 Quack.</sub>
 </div>
+
+
+---
+
+### 🆕 GeDefense TV — the living-room protection layer
+
+**GeDefense TV (early alpha)** brings the local-first GeDefense fabric to Android TV / Google TV: an on-device loopback VPN filters smart-TV telemetry, ACR/tracking, ad and C2 destinations without any external server, shows where apps connect on a local traffic map, correlates XDR-Light incidents and adds reversible outbound containment (Kinetic-Lite) with an on-screen undo popup. Six UI languages, no root, no cloud upload.
+
+➡️ **[GeDefense TV source, docs and latest alpha APK](https://github.com/visiongaiatechnology/gedefense_androidtv)**

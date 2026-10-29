@@ -239,3 +239,12 @@ Lo sviluppo indipendente è finanziato da persone che vogliono che questo stack 
 <sub><strong>COSTRUITO IN EUROPA. PROGETTATO PER LA SOVRANITÀ. SUPERVISIONATO DA UNA PAPERELLA.</strong></sub><br />
 <sub>🦆 Qua.</sub>
 </div>
+
+
+---
+
+### 🆕 GeDefense TV — lo strato di protezione per il soggiorno
+
+**GeDefense TV (alfa iniziale)** porta la struttura locale di GeDefense su Android TV / Google TV: una VPN loopback sul dispositivo filtra la telemetria della TV, ACR/tracciamento, pubblicità e destinazioni C2 senza server esterno, mostra su una mappa locale del traffico dove si connettono le app, correla incidenti XDR-Light e aggiunge contenimento in uscita reversibile (Kinetic-Lite) con un popup di annullamento sullo schermo. Sei lingue dell'interfaccia, senza root, senza upload nel cloud.
+
+➡️ **[Codice sorgente, documentazione e ultima APK alfa di GeDefense TV](https://github.com/visiongaiatechnology/gedefense_androidtv)**

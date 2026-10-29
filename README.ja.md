@@ -239,3 +239,12 @@ Sir Quacksec は私たちのマスコットであり、ラバーダック・デ�
 <sub><strong>ヨーロッパで構築。主権のために設計。アヒルによる監督。</strong></sub><br />
 <sub>🦆 クワック。</sub>
 </div>
+
+
+---
+
+### 🆕 GeDefense TV — リビングのための保護レイヤー
+
+**GeDefense TV（早期アルファ）** は、ローカルファーストの GeDefense 構造を Android TV / Google TV に持ち込みます。オンデバイスのループバック VPN が外部サーバーなしでスマート TV のテレメトリ、ACR/トラッキング、広告、C2 宛先をフィルタリングし、ローカルのトラフィックマップでアプリの接続先を表示、XDR-Light のインシデントを相関し、画面の取り消しポップアップ付きの可逆な外向きコンテインメント（Kinetic-Lite）を追加します。UI は 6 言語、root 不要、クラウド送信なし。
+
+➡️ **[GeDefense TV のソースコード・ドキュメント・最新アルファ APK](https://github.com/visiongaiatechnology/gedefense_androidtv)**

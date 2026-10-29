@@ -239,3 +239,12 @@ Sir Quacksec 是我们的吉祥物、橡皮鸭调试员，也是唯一从未在�
 <sub><strong>在欧洲构建。为主权而设计。由一只鸭子监督。</strong></sub><br />
 <sub>🦆 嘎。</sub>
 </div>
+
+
+---
+
+### 🆕 GeDefense TV — 客厅防护层
+
+**GeDefense TV（早期 Alpha）** 将本地优先的 GeDefense 架构带到 Android TV / Google TV：设备端回环 VPN 无需外部服务器即可过滤智能电视遥测、ACR/跟踪、广告和 C2 目标，在本地流量地图上显示应用连接目的地，关联 XDR-Light 事件，并增加可逆的出站遏制（Kinetic-Lite），屏幕弹出可撤销提示。UI 支持六种语言，无需 root，不上传云端。
+
+➡️ **[GeDefense TV 源代码、文档和最新 Alpha APK](https://github.com/visiongaiatechnology/gedefense_androidtv)**

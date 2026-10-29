@@ -239,3 +239,12 @@ Unabhängige Entwicklung wird von Menschen finanziert, die wollen, dass dieser S
 <sub><strong>GEBAUT IN EUROPA. FÜR SOUVERÄNITÄT ENTWICKELT. VON EINER ENTE BEAUFSICHTIGT.</strong></sub><br />
 <sub>🦆 Quak.</sub>
 </div>
+
+
+---
+
+### 🆕 GeDefense TV — die Schutzschicht für das Wohnzimmer
+
+**GeDefense TV (frühe Alpha)** bringt die lokale GeDefense-Fabric auf Android TV / Google TV: ein On-Device-Loopback-VPN filtert Smart-TV-Telemetrie, ACR/Tracking-, Werbe- und C2-Ziele ohne externen Server, zeigt auf einer lokalen Traffic-Karte, wohin Apps verbinden, korreliert XDR-Light-Vorfälle und ergänzt reversible ausgehende Containments (Kinetic-Lite) mit einem Undo-Popup auf dem Bildschirm. Sechs UI-Sprachen, kein Root, kein Cloud-Upload.
+
+➡️ **[GeDefense TV Quellcode, Doku und neueste Alpha-APK](https://github.com/visiongaiatechnology/gedefense_androidtv)**
