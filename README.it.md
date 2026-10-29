@@ -152,6 +152,7 @@ Se costruisci, investi, fai ricerca o operi in questo spazio: **dovremmo parlare
       <a href="https://github.com/visiongaiatechnology/gedefense"><img src="https://img.shields.io/badge/Linux-D4AF37?style=flat-square&amp;logo=linux&amp;logoColor=0B1220" alt="GeDefense Linux" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefensewp"><img src="https://img.shields.io/badge/WordPress-1F8FFF?style=flat-square&amp;logo=wordpress&amp;logoColor=ffffff" alt="GeDefense WordPress" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefenseandroid"><img src="https://img.shields.io/badge/Android-22D3EE?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense Android" /></a>
+      <a href="https://github.com/visiongaiatechnology/gedefense_androidtv"><img src="https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense TV for Android TV / Google TV" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefensewin"><img src="https://img.shields.io/badge/Windows-8B5CF6?style=flat-square&amp;logo=windows&amp;logoColor=ffffff" alt="GeDefense Windows" /></a>
     </td>
   </tr>
@@ -239,12 +240,3 @@ Lo sviluppo indipendente è finanziato da persone che vogliono che questo stack 
 <sub><strong>COSTRUITO IN EUROPA. PROGETTATO PER LA SOVRANITÀ. SUPERVISIONATO DA UNA PAPERELLA.</strong></sub><br />
 <sub>🦆 Qua.</sub>
 </div>
-
-
----
-
-### 🆕 GeDefense TV — lo strato di protezione per il soggiorno
-
-**GeDefense TV (alfa iniziale)** porta la struttura locale di GeDefense su Android TV / Google TV: una VPN loopback sul dispositivo filtra la telemetria della TV, ACR/tracciamento, pubblicità e destinazioni C2 senza server esterno, mostra su una mappa locale del traffico dove si connettono le app, correla incidenti XDR-Light e aggiunge contenimento in uscita reversibile (Kinetic-Lite) con un popup di annullamento sullo schermo. Sei lingue dell'interfaccia, senza root, senza upload nel cloud.
-
-➡️ **[Codice sorgente, documentazione e ultima APK alfa di GeDefense TV](https://github.com/visiongaiatechnology/gedefense_androidtv)**

@@ -152,6 +152,7 @@ Wenn du in diesem Bereich baust, investierst, forschst oder operierst: **wir sol
       <a href="https://github.com/visiongaiatechnology/gedefense"><img src="https://img.shields.io/badge/Linux-D4AF37?style=flat-square&amp;logo=linux&amp;logoColor=0B1220" alt="GeDefense Linux" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefensewp"><img src="https://img.shields.io/badge/WordPress-1F8FFF?style=flat-square&amp;logo=wordpress&amp;logoColor=ffffff" alt="GeDefense WordPress" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefenseandroid"><img src="https://img.shields.io/badge/Android-22D3EE?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense Android" /></a>
+      <a href="https://github.com/visiongaiatechnology/gedefense_androidtv"><img src="https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense TV for Android TV / Google TV" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefensewin"><img src="https://img.shields.io/badge/Windows-8B5CF6?style=flat-square&amp;logo=windows&amp;logoColor=ffffff" alt="GeDefense Windows" /></a>
     </td>
   </tr>
@@ -239,12 +240,3 @@ Unabhängige Entwicklung wird von Menschen finanziert, die wollen, dass dieser S
 <sub><strong>GEBAUT IN EUROPA. FÜR SOUVERÄNITÄT ENTWICKELT. VON EINER ENTE BEAUFSICHTIGT.</strong></sub><br />
 <sub>🦆 Quak.</sub>
 </div>
-
-
----
-
-### 🆕 GeDefense TV — die Schutzschicht für das Wohnzimmer
-
-**GeDefense TV (frühe Alpha)** bringt die lokale GeDefense-Fabric auf Android TV / Google TV: ein On-Device-Loopback-VPN filtert Smart-TV-Telemetrie, ACR/Tracking-, Werbe- und C2-Ziele ohne externen Server, zeigt auf einer lokalen Traffic-Karte, wohin Apps verbinden, korreliert XDR-Light-Vorfälle und ergänzt reversible ausgehende Containments (Kinetic-Lite) mit einem Undo-Popup auf dem Bildschirm. Sechs UI-Sprachen, kein Root, kein Cloud-Upload.
-
-➡️ **[GeDefense TV Quellcode, Doku und neueste Alpha-APK](https://github.com/visiongaiatechnology/gedefense_androidtv)**

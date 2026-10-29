@@ -152,6 +152,7 @@ Sir Quacksec — наш маскот, наш отладчик-резиновая
       <a href="https://github.com/visiongaiatechnology/gedefense"><img src="https://img.shields.io/badge/Linux-D4AF37?style=flat-square&amp;logo=linux&amp;logoColor=0B1220" alt="GeDefense Linux" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefensewp"><img src="https://img.shields.io/badge/WordPress-1F8FFF?style=flat-square&amp;logo=wordpress&amp;logoColor=ffffff" alt="GeDefense WordPress" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefenseandroid"><img src="https://img.shields.io/badge/Android-22D3EE?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense Android" /></a>
+      <a href="https://github.com/visiongaiatechnology/gedefense_androidtv"><img src="https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense TV for Android TV / Google TV" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefensewin"><img src="https://img.shields.io/badge/Windows-8B5CF6?style=flat-square&amp;logo=windows&amp;logoColor=ffffff" alt="GeDefense Windows" /></a>
     </td>
   </tr>
@@ -239,12 +240,3 @@ Sir Quacksec — наш маскот, наш отладчик-резиновая
 <sub><strong>СОЗДАНО В ЕВРОПЕ. СПРОЕКТИРОВАНО ДЛЯ СУВЕРЕНИТЕТА. ПОД НАДЗОРОМ УТКИ.</strong></sub><br />
 <sub>🦆 Кря.</sub>
 </div>
-
-
----
-
-### 🆕 GeDefense TV — защитный слой для гостиной
-
-**GeDefense TV (ранняя альфа)** переносит локальную архитектуру GeDefense на Android TV / Google TV: локальный loopback-VPN фильтрует телеметрию Smart TV, ACR/трекинг, рекламные и C2-назначения без внешнего сервера, показывает на локальной карте трафика, куда подключаются приложения, коррелирует инциденты XDR-Light и добавляет обратимые исходящие ограничения (Kinetic-Lite) со всплывающим окном отмены. Шесть языков интерфейса, без root, без облачной загрузки.
-
-➡️ **[Исходный код GeDefense TV, документация и последняя альфа-APK](https://github.com/visiongaiatechnology/gedefense_androidtv)**

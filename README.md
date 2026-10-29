@@ -152,6 +152,7 @@ If you build, invest, research or operate in this space: **we should talk.**
       <a href="https://github.com/visiongaiatechnology/gedefense"><img src="https://img.shields.io/badge/Linux-D4AF37?style=flat-square&amp;logo=linux&amp;logoColor=0B1220" alt="GeDefense Linux" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefensewp"><img src="https://img.shields.io/badge/WordPress-1F8FFF?style=flat-square&amp;logo=wordpress&amp;logoColor=ffffff" alt="GeDefense WordPress" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefenseandroid"><img src="https://img.shields.io/badge/Android-22D3EE?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense Android" /></a>
+      <a href="https://github.com/visiongaiatechnology/gedefense_androidtv"><img src="https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense TV for Android TV / Google TV" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefensewin"><img src="https://img.shields.io/badge/Windows-8B5CF6?style=flat-square&amp;logo=windows&amp;logoColor=ffffff" alt="GeDefense Windows" /></a>
     </td>
   </tr>
@@ -249,12 +250,3 @@ Independent development is funded by people who want this stack to exist. If you
 <sub><strong>BUILT IN EUROPE. DESIGNED FOR SOVEREIGNTY. SUPERVISED BY A DUCK.</strong></sub><br />
 <sub>🦆 Quack.</sub>
 </div>
-
-
----
-
-### 🆕 GeDefense TV — the living-room protection layer
-
-**GeDefense TV (early alpha)** brings the local-first GeDefense fabric to Android TV / Google TV: an on-device loopback VPN filters smart-TV telemetry, ACR/tracking, ad and C2 destinations without any external server, shows where apps connect on a local traffic map, correlates XDR-Light incidents and adds reversible outbound containment (Kinetic-Lite) with an on-screen undo popup. Six UI languages, no root, no cloud upload.
-
-➡️ **[GeDefense TV source, docs and latest alpha APK](https://github.com/visiongaiatechnology/gedefense_androidtv)**

@@ -152,6 +152,7 @@ Sir Quacksec 是我们的吉祥物、橡皮鸭调试员，也是唯一从未在�
       <a href="https://github.com/visiongaiatechnology/gedefense"><img src="https://img.shields.io/badge/Linux-D4AF37?style=flat-square&amp;logo=linux&amp;logoColor=0B1220" alt="GeDefense Linux" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefensewp"><img src="https://img.shields.io/badge/WordPress-1F8FFF?style=flat-square&amp;logo=wordpress&amp;logoColor=ffffff" alt="GeDefense WordPress" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefenseandroid"><img src="https://img.shields.io/badge/Android-22D3EE?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense Android" /></a>
+      <a href="https://github.com/visiongaiatechnology/gedefense_androidtv"><img src="https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense TV for Android TV / Google TV" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefensewin"><img src="https://img.shields.io/badge/Windows-8B5CF6?style=flat-square&amp;logo=windows&amp;logoColor=ffffff" alt="GeDefense Windows" /></a>
     </td>
   </tr>
@@ -239,12 +240,3 @@ Sir Quacksec 是我们的吉祥物、橡皮鸭调试员，也是唯一从未在�
 <sub><strong>在欧洲构建。为主权而设计。由一只鸭子监督。</strong></sub><br />
 <sub>🦆 嘎。</sub>
 </div>
-
-
----
-
-### 🆕 GeDefense TV — 客厅防护层
-
-**GeDefense TV（早期 Alpha）** 将本地优先的 GeDefense 架构带到 Android TV / Google TV：设备端回环 VPN 无需外部服务器即可过滤智能电视遥测、ACR/跟踪、广告和 C2 目标，在本地流量地图上显示应用连接目的地，关联 XDR-Light 事件，并增加可逆的出站遏制（Kinetic-Lite），屏幕弹出可撤销提示。UI 支持六种语言，无需 root，不上传云端。
-
-➡️ **[GeDefense TV 源代码、文档和最新 Alpha APK](https://github.com/visiongaiatechnology/gedefense_androidtv)**

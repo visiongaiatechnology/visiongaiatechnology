@@ -152,6 +152,7 @@ Sir Quacksec は私たちのマスコットであり、ラバーダック・デ�
       <a href="https://github.com/visiongaiatechnology/gedefense"><img src="https://img.shields.io/badge/Linux-D4AF37?style=flat-square&amp;logo=linux&amp;logoColor=0B1220" alt="GeDefense Linux" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefensewp"><img src="https://img.shields.io/badge/WordPress-1F8FFF?style=flat-square&amp;logo=wordpress&amp;logoColor=ffffff" alt="GeDefense WordPress" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefenseandroid"><img src="https://img.shields.io/badge/Android-22D3EE?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense Android" /></a>
+      <a href="https://github.com/visiongaiatechnology/gedefense_androidtv"><img src="https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=0B1220" alt="GeDefense TV for Android TV / Google TV" /></a>
       <a href="https://github.com/visiongaiatechnology/gedefensewin"><img src="https://img.shields.io/badge/Windows-8B5CF6?style=flat-square&amp;logo=windows&amp;logoColor=ffffff" alt="GeDefense Windows" /></a>
     </td>
   </tr>
@@ -239,12 +240,3 @@ Sir Quacksec は私たちのマスコットであり、ラバーダック・デ�
 <sub><strong>ヨーロッパで構築。主権のために設計。アヒルによる監督。</strong></sub><br />
 <sub>🦆 クワック。</sub>
 </div>
-
-
----
-
-### 🆕 GeDefense TV — リビングのための保護レイヤー
-
-**GeDefense TV（早期アルファ）** は、ローカルファーストの GeDefense 構造を Android TV / Google TV に持ち込みます。オンデバイスのループバック VPN が外部サーバーなしでスマート TV のテレメトリ、ACR/トラッキング、広告、C2 宛先をフィルタリングし、ローカルのトラフィックマップでアプリの接続先を表示、XDR-Light のインシデントを相関し、画面の取り消しポップアップ付きの可逆な外向きコンテインメント（Kinetic-Lite）を追加します。UI は 6 言語、root 不要、クラウド送信なし。
-
-➡️ **[GeDefense TV のソースコード・ドキュメント・最新アルファ APK](https://github.com/visiongaiatechnology/gedefense_androidtv)**
