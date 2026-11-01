@@ -18,6 +18,8 @@
 
 <h1>VISIONGAIATECHNOLOGY</h1>
 
+<p><strong>Department of Unnecessary Security™</strong></p>
+
 <p><strong>WE LOOKED AT THE TECH INDUSTRY AND MADE IT OUR PROBLEM.</strong></p>
 
 <p>Operating systems. Security fabrics. Productivity software.<br />
