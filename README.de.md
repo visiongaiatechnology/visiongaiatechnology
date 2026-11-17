@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="1980" height="495" alt="Design ohne Titel (1)" src="https://github.com/user-attachments/assets/67c321be-5799-4738-b89b-b41cea84d556" />
+
+
 🌍 **ENTASTICLANGUAGE** &nbsp;·&nbsp; wähle dein Quak:<br />
 [🇬🇧 English](README.md) · **[🇩🇪 Deutsch](README.de.md)** · [🇷🇺 Русский](README.ru.md) · [🇨🇳 中文](README.zh.md) · [🇯🇵 日本語](README.ja.md) · [🇪🇸 Español](README.es.md) · [🇮🇹 Italiano](README.it.md)
 
