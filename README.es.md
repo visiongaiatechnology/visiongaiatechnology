@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="1980" height="495" alt="Design ohne Titel (1)" src="https://github.com/user-attachments/assets/0e0f6b40-a0e8-4c63-857d-55ae4a3bcae9" />
+
+
 🌍 **ENTASTICLANGUAGE** &nbsp;·&nbsp; elige tu cuac:<br />
 [🇬🇧 English](README.md) · [🇩🇪 Deutsch](README.de.md) · [🇷🇺 Русский](README.ru.md) · [🇨🇳 中文](README.zh.md) · [🇯🇵 日本語](README.ja.md) · **[🇪🇸 Español](README.es.md)** · [🇮🇹 Italiano](README.it.md)
 
