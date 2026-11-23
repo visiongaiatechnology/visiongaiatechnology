@@ -46,6 +46,9 @@ We're building the post-cloud world because apparently having hobbies wasn't eno
 
 ---
 
+[Click here to understand our vision](https://visiongaiatechnology.de/vision/)
+
+
 ## 🦆 Meet Sir Quacksec
 
 > **Every serious engineering organization has a rubber duck. Ours has a title, a tactical vest and veto power.**
@@ -255,3 +258,4 @@ Independent development is funded by people who want this stack to exist. If you
 <sub><strong>BUILT IN EUROPE. DESIGNED FOR SOVEREIGNTY. SUPERVISED BY A DUCK.</strong></sub><br />
 <sub>🦆 Quack.</sub>
 </div>
+
