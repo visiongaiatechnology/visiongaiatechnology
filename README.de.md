@@ -44,6 +44,9 @@ Wir bauen die Post-Cloud-Welt, weil Hobbys offenbar nicht gereicht haben.</p>
 
 ---
 
+[Hier klicken für um unsere Vision zu verstehen](https://visiongaiatechnology.de/vision/)
+
+
 ## 🦆 Sir Quacksec
 
 > **Jede ernsthafte Engineering-Organisation hat eine Gummiente. Unsere hat einen Titel, eine taktische Weste und Vetorecht.**
@@ -243,3 +246,4 @@ Unabhängige Entwicklung wird von Menschen finanziert, die wollen, dass dieser S
 <sub><strong>GEBAUT IN EUROPA. FÜR SOUVERÄNITÄT ENTWICKELT. VON EINER ENTE BEAUFSICHTIGT.</strong></sub><br />
 <sub>🦆 Quak.</sub>
 </div>
+
